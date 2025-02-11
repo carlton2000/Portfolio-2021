@@ -14,9 +14,13 @@ html {
 	font-size: 10px;
 }
 
-/* .aligent{
-	float: left;
-} */
+#resume .resume-header {
+	text-align: center;
+}
+.aligent{
+	/* float: left; */
+	text-align: left;
+}
 /* Float four columns side by side */
 .columned {
 	float: left;
