@@ -21,6 +21,9 @@ html {
 	/* float: left; */
 	text-align: left;
 }
+.d-none{
+	display: none !important;
+}
 /* Float four columns side by side */
 .columned {
 	float: left;
