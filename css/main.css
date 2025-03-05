@@ -25,6 +25,11 @@ html {
 	display: none !important;
 }
 /* Float four columns side by side */
+.column {
+	float: left;
+	width: 100%;
+	padding: 10px 10px 10px 10px;
+  }
 .columned {
 	float: left;
 	width: 50%;
@@ -532,7 +537,7 @@ select {
 	padding: 1.5rem 0;
 	border: 0;
 	outline: none;
-	vertical-align: middle;
+	/* vertical-align: middle; */
 	color: #313131;
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.5rem;
